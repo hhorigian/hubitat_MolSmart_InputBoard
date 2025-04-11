@@ -1,0 +1,17 @@
+{
+ "packageName":"MolSmart - 12+4 Input Board",
+ "author":"VH",
+ "version":"1.0",
+ "minimumHEVersion":"2.4.1.151",
+ "dateReleased":"2025-04-11",
+ "releaseNotes":"First version pushed to HPM",
+ "documentationLink":"https://github.com/hhorigian/hubitat_MolSmart_InputBoard/tree/main",
+ "drivers": [
+  {
+     "id":"bb1430bb-f779-465e-8e1a-3ca967111ec6",
+     "name":"MolSmart - 12+4 Input Board",
+     "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_InputBoard/refs/heads/main/Hubitat_TRATO_MolSmart_InputBoard_TCP_Driver.groovy",
+     "required":true
+  }
+  ]
+}
