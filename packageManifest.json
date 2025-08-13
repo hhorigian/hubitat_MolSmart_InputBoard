@@ -1,10 +1,10 @@
 {
  "packageName":"MolSmart - 12+4 Input Board",
  "author":"VH",
- "version":"1.0",
+ "version":"1.1",
  "minimumHEVersion":"2.4.1.151",
- "dateReleased":"2025-04-11",
- "releaseNotes":"First version pushed to HPM",
+ "dateReleased":"2025-08-13",
+ "releaseNotes":"Updated Version with major improvements",
  "documentationLink":"https://github.com/hhorigian/hubitat_MolSmart_InputBoard/tree/main",
  "drivers": [
   {
