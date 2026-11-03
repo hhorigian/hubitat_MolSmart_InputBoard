@@ -1,16 +1,16 @@
 {
  "packageName":"MolSmart - 12+4 Input Board",
  "author":"VH",
- "version":"1.2",
+ "version":"3.0.0",
  "minimumHEVersion":"2.4.1.151",
- "dateReleased":"2025-08-15",
- "releaseNotes":"Updated Version with major improvements",
+ "dateReleased":"2026-11-03",
+ "releaseNotes":"TS-3.0.0 (TecnoSimples) — Botões com pushed/held corretos (um toque gera um evento, sem atraso de 2 s, duplo clique funciona), reconexão que não morre, analógicas com escala e unidade configuráveis e muito menos eventos; regras que contavam com held e pushed no mesmo toque precisam de ajuste. / Buttons with correct pushed/held (one press gives one event, no 2 s delay, double press works), reconnection that never dies, analog inputs with configurable scale and unit and far fewer events; rules that relied on held and pushed in the same press need adjusting.",
  "documentationLink":"https://github.com/hhorigian/hubitat_MolSmart_InputBoard/tree/main",
  "drivers": [
   {
      "id":"bb1430bb-f779-465e-8e1a-3ca967111ec6",
      "name":"MolSmart - 12+4 Input Board",
-     "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_InputBoard/refs/heads/main/Hubitat_TRATO_MolSmart_InputBoard_TCP_Driver.groovy",
+     "location":"https://raw.githubusercontent.com/hhorigian/hubitat_MolSmart_InputBoard/main/Hubitat_TRATO_MolSmart_InputBoard_TCP_Driver.groovy",
      "required":true
   }
   ]
